@@ -1,7 +1,7 @@
-# RKE517 midterm: case CASE-CODE
+# RKE517 midterm:case KJ101-11
 
-Student: YOUR NAME (class)
-Client: (from your case brief)
+Student: FITRI ANGGRE YANI
+Client:  Ibu Kartika Sari, Klinik Bersalin Kasih Ibu
 
 | Part | File |
 |---|---|
