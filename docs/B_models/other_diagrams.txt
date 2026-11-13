@@ -1,0 +1,7 @@
+# Diagram Lainnya
+
+Diagram berikut TIDAK diubah karena tidak ada perubahan alur kerja:
+- Diagram Use Case
+- Diagram Alir
+- Diagram Kontek
+CR-1: Diagram lain — tidak ada perubahan
