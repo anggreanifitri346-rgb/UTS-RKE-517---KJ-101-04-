@@ -1,0 +1,10 @@
+# Perubahan ERD
+
+Ditambahkan atribut baru pada entitas RekamMedis:
+- status_penolakan_prosedur (Ya/Tidak)
+- alasan_penolakan (teks)
+- tanda_tangan_pasien (tautan/foto)
+- tanggal_penolakan (tanggal)
+
+Tidak ada entitas atau hubungan baru yang ditambahkan.
+CR-1: Perubahan ERD — penolakan prosedur
